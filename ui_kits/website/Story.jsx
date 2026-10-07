@@ -6,7 +6,7 @@ const STEPS = [
   { year: 'The regulars', title: 'GH, American College, the Court', body: 'Doctors and attendants from the Government Hospital, students from American College, lawyers and clerks from the Court. The neighbourhood ate here after work.' },
   { year: 'Till 3 am', title: 'Madurai’s late-night idly', body: 'The kadai served until 3 in the morning. Film stars and public figures stopped in to eat or came by for takeaway.' },
   { year: '2004', title: 'On screen in Kadhal', body: 'முதலியார் இட்லி கடை appears in Kadhal, starring Bharath and Sandhya. Directed by Balaji Sakthivel, music by Joshua Sridhar.' },
-  { year: 'In the press', title: 'The muttai idli, written up', body: 'The Tamil press wrote up the muttai idli: idli steamed with egg, sold at ₹20 a set. The kadai was also covered by Kumudam, Vasantham TV Singapore and Kairali TV.' },
+  { year: 'In the press', title: 'The muttai idli, written up', body: 'The Tamil press wrote up the muttai idli, idlis fried with egg and masala, when a set cost ₹20. The kadai was also covered by Kumudam, Vasantham TV Singapore and Kairali TV.' },
   { year: '22 Feb 2026', title: 'Hotel Mudaliyar, Melamadai', body: 'The Goripalayam premises were acquired for the bridge construction. Mr K. Tamilselvan now runs the restaurant in a new three-floor building on Pandi Kovil Ring Road.' },
 ];
 

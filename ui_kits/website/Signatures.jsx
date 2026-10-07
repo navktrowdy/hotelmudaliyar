@@ -1,7 +1,7 @@
 const { SectionHeading, DishCard, Ornament } = window.HotelMudaliyarDesignSystem_f1309a;
 
 const DISHES = [
-  { name: 'Muttai Idli', tamilName: 'முட்டை இட்லி', price: 130, diet: 'egg', badge: 'Signature', note: 'The Goripalayam original. Idli steamed with egg.' },
+  { name: 'Muttai Idli', tamilName: 'முட்டை இட்லி', price: 130, diet: 'egg', badge: 'Signature', note: 'The Goripalayam original. Idlis chopped and fried with egg and masala.' },
   { name: 'Mutton Muttai Idli', price: 350, diet: 'nonveg', note: 'Muttai idli finished with mutton kheema masala.' },
   { name: 'Seeraga Samba Mutton Biryani', price: 300, diet: 'nonveg', badge: 'Signature', note: 'Short-grain seeraga samba, dum-cooked to order.' },
   { name: 'Madurai Spl. Parotta', price: 80, diet: 'veg', note: 'Two pieces, layered and slapped on the tawa.' },

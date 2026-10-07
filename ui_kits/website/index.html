@@ -33,7 +33,7 @@ function Site(){
     <div id="halls"><Halls onSubmit={()=>setDialog('enquiry')}/></div>
     <div id="visit"><Footer/></div>
     {dialog?<Dialog title={dialog==='reserve'?'Reserve a table':dialog==='enquiry'?'Enquiry sent':dialog} tamilTitle={dialog==='reserve'?'மேசை பதிவு':null} onClose={()=>setDialog(null)} footer={<Button size="sm" onClick={()=>setDialog(null)}>Done</Button>} style={{position:'fixed'}}>
-      {dialog==='reserve'?'Call 0452 000 0000 or ask at the counter. Tables are held for 15 minutes.':dialog==='enquiry'?'We will call you back about Ammaiyappan Hall within a day.':'Available all day at the Melamadai counter.'}
+      {dialog==='reserve'?'Call 0452 253 0303 or ask at the counter. Tables are held for 15 minutes.':dialog==='enquiry'?'We will call you back about Ammaiyappan Hall within a day.':'Available all day at the Melamadai counter.'}
     </Dialog>:null}
   </div>);
 }

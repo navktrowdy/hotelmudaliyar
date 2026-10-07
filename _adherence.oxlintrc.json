@@ -21,6 +21,7 @@
               "components/forms/**",
               "components/menu/**",
               "components/navigation/**",
+              "tools/**",
               "ui_kits/menu_card/**",
               "ui_kits/order_app/**",
               "ui_kits/website/**"

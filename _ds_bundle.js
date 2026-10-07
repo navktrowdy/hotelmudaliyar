@@ -1,4 +1,4 @@
-/* @ds-bundle: {"format":4,"namespace":"HotelMudaliyarDesignSystem_f1309a","components":[{"name":"Badge","sourcePath":"components/core/Badge.jsx"},{"name":"Button","sourcePath":"components/core/Button.jsx"},{"name":"Card","sourcePath":"components/core/Card.jsx"},{"name":"Icon","sourcePath":"components/core/Icon.jsx"},{"name":"IconButton","sourcePath":"components/core/IconButton.jsx"},{"name":"Logo","sourcePath":"components/core/Logo.jsx"},{"name":"Ornament","sourcePath":"components/core/Ornament.jsx"},{"name":"SectionHeading","sourcePath":"components/core/SectionHeading.jsx"},{"name":"Tag","sourcePath":"components/core/Tag.jsx"},{"name":"Dialog","sourcePath":"components/feedback/Dialog.jsx"},{"name":"Notice","sourcePath":"components/feedback/Notice.jsx"},{"name":"Checkbox","sourcePath":"components/forms/Checkbox.jsx"},{"name":"Input","sourcePath":"components/forms/Input.jsx"},{"name":"QuantityStepper","sourcePath":"components/forms/QuantityStepper.jsx"},{"name":"Select","sourcePath":"components/forms/Select.jsx"},{"name":"DietDot","sourcePath":"components/menu/DietDot.jsx"},{"name":"DishCard","sourcePath":"components/menu/DishCard.jsx"},{"name":"MenuItemRow","sourcePath":"components/menu/MenuItemRow.jsx"},{"name":"MenuSection","sourcePath":"components/menu/MenuSection.jsx"},{"name":"NavBar","sourcePath":"components/navigation/NavBar.jsx"},{"name":"TabBar","sourcePath":"components/navigation/TabBar.jsx"}],"sourceHashes":{"components/core/Badge.jsx":"0b1e8ca89d45","components/core/Button.jsx":"c5e2e216d08f","components/core/Card.jsx":"90ca47ff0ec6","components/core/Icon.jsx":"b442845a8b5e","components/core/IconButton.jsx":"d733ee858583","components/core/Logo.jsx":"4c29fee14283","components/core/Ornament.jsx":"ffcd152838f3","components/core/SectionHeading.jsx":"23d324f6af16","components/core/Tag.jsx":"fe42656c2979","components/feedback/Dialog.jsx":"05f8ece6bab6","components/feedback/Notice.jsx":"a0c4e91b94fc","components/forms/Checkbox.jsx":"4d4437a6a1f2","components/forms/Input.jsx":"04ac2919096b","components/forms/QuantityStepper.jsx":"8e7869fcbc56","components/forms/Select.jsx":"7eb3e2472db5","components/menu/DietDot.jsx":"2594f7caef3e","components/menu/DishCard.jsx":"2e1be8583eda","components/menu/MenuItemRow.jsx":"5a6ca397d311","components/menu/MenuSection.jsx":"ad4369a90e5c","components/navigation/NavBar.jsx":"bdefd5d73df0","components/navigation/TabBar.jsx":"5aaf50dfbb84","ui_kits/menu_card/MenuPage.jsx":"965d2fd7d174","ui_kits/menu_card/doc-page.js":"371bab66f42d","ui_kits/order_app/CartScreen.jsx":"35c8ede4a822","ui_kits/order_app/MenuScreen.jsx":"369d810e9b9e","ui_kits/website/Footer.jsx":"b42fa97ebeb3","ui_kits/website/Halls.jsx":"6ae26fb5770d","ui_kits/website/Hero.jsx":"e1f13ecfc003","ui_kits/website/MenuBoard.jsx":"90e89249e659","ui_kits/website/Signatures.jsx":"31d28455a3d4","ui_kits/website/Story.jsx":"37cfef83c5df"},"inlinedExternals":[],"unexposedExports":[]} */
+/* @ds-bundle: {"format":4,"namespace":"HotelMudaliyarDesignSystem_f1309a","components":[{"name":"Badge","sourcePath":"components/core/Badge.jsx"},{"name":"Button","sourcePath":"components/core/Button.jsx"},{"name":"Card","sourcePath":"components/core/Card.jsx"},{"name":"Icon","sourcePath":"components/core/Icon.jsx"},{"name":"IconButton","sourcePath":"components/core/IconButton.jsx"},{"name":"Logo","sourcePath":"components/core/Logo.jsx"},{"name":"Ornament","sourcePath":"components/core/Ornament.jsx"},{"name":"SectionHeading","sourcePath":"components/core/SectionHeading.jsx"},{"name":"Tag","sourcePath":"components/core/Tag.jsx"},{"name":"Dialog","sourcePath":"components/feedback/Dialog.jsx"},{"name":"Notice","sourcePath":"components/feedback/Notice.jsx"},{"name":"Checkbox","sourcePath":"components/forms/Checkbox.jsx"},{"name":"Input","sourcePath":"components/forms/Input.jsx"},{"name":"QuantityStepper","sourcePath":"components/forms/QuantityStepper.jsx"},{"name":"Select","sourcePath":"components/forms/Select.jsx"},{"name":"DietDot","sourcePath":"components/menu/DietDot.jsx"},{"name":"DishCard","sourcePath":"components/menu/DishCard.jsx"},{"name":"MenuItemRow","sourcePath":"components/menu/MenuItemRow.jsx"},{"name":"MenuSection","sourcePath":"components/menu/MenuSection.jsx"},{"name":"NavBar","sourcePath":"components/navigation/NavBar.jsx"},{"name":"TabBar","sourcePath":"components/navigation/TabBar.jsx"}],"sourceHashes":{"components/core/Badge.jsx":"0b1e8ca89d45","components/core/Button.jsx":"c5e2e216d08f","components/core/Card.jsx":"90ca47ff0ec6","components/core/Icon.jsx":"b442845a8b5e","components/core/IconButton.jsx":"d733ee858583","components/core/Logo.jsx":"4c29fee14283","components/core/Ornament.jsx":"ffcd152838f3","components/core/SectionHeading.jsx":"23d324f6af16","components/core/Tag.jsx":"fe42656c2979","components/feedback/Dialog.jsx":"05f8ece6bab6","components/feedback/Notice.jsx":"a0c4e91b94fc","components/forms/Checkbox.jsx":"4d4437a6a1f2","components/forms/Input.jsx":"04ac2919096b","components/forms/QuantityStepper.jsx":"8e7869fcbc56","components/forms/Select.jsx":"7eb3e2472db5","components/menu/DietDot.jsx":"2594f7caef3e","components/menu/DishCard.jsx":"2e1be8583eda","components/menu/MenuItemRow.jsx":"5a6ca397d311","components/menu/MenuSection.jsx":"ad4369a90e5c","components/navigation/NavBar.jsx":"bdefd5d73df0","components/navigation/TabBar.jsx":"5aaf50dfbb84","tools/build-site.js":"3d554372f719","tools/journal-articles.js":"ba7760569aa8","tools/site-shell.js":"b77293bc30e5","ui_kits/menu_card/MenuPage.jsx":"965d2fd7d174","ui_kits/menu_card/doc-page.js":"371bab66f42d","ui_kits/order_app/CartScreen.jsx":"35c8ede4a822","ui_kits/order_app/MenuScreen.jsx":"369d810e9b9e","ui_kits/website/Footer.jsx":"b42fa97ebeb3","ui_kits/website/Halls.jsx":"6ae26fb5770d","ui_kits/website/Hero.jsx":"e1f13ecfc003","ui_kits/website/MenuBoard.jsx":"90e89249e659","ui_kits/website/Signatures.jsx":"0aafd7946e3a","ui_kits/website/Story.jsx":"3752b6b399e9"},"inlinedExternals":[],"unexposedExports":[]} */
 
 (() => {
 
@@ -1444,6 +1444,535 @@ function TabBar({
 }
 Object.assign(__ds_scope, { TabBar });
 })(); } catch (e) { __ds_ns.__errors.push({ path: "components/navigation/TabBar.jsx", error: String((e && e.message) || e) }); }
+
+// tools/build-site.js
+try { (() => {
+// Build script body: run via run_script → eval(shell + articles + this). Generates every static page + sitemap + llms.txt.
+var menu = JSON.parse(MENU_JSON);
+var count = menu.sections.reduce((a, s) => a + s.items.length, 0);
+var dietLabel = {
+  veg: 'Vegetarian',
+  nonveg: 'Non-vegetarian',
+  egg: 'Contains egg'
+};
+var dietColor = {
+  veg: 'var(--veg)',
+  nonveg: 'var(--nonveg)',
+  egg: 'var(--gold-600)'
+};
+var dd = d => `<span class="dd" style="border-color:${dietColor[d]}" title="${dietLabel[d]}"><i style="background:${dietColor[d]}"></i></span>`;
+var legend = `<div class="legend"><span>${dd('veg')}Vegetarian</span><span>${dd('egg')}Egg</span><span>${dd('nonveg')}Non-vegetarian</span><span>Prices in ₹ · taxes as applicable</span></div>`;
+var SIG = [['Muttai Idli', 'முட்டை இட்லி', 130, 'egg', 'Idlis chopped and fried on the tawa with egg and masala. The Goripalayam original.', 'muttai-idli-madurai'], ['Madurai Spl. Curry Dosa', 'மதுரை கறி தோசை', 300, 'nonveg', 'Dosa with chicken, mutton, prawn, boti or liver curry cooked on top.', 'madurai-curry-dosa'], ['Kothu Parotta', 'கொத்து பரோட்டா', 130, 'veg', 'Parotta chopped on the tawa with salna, plus egg, chicken or mutton.', 'kothu-parotta-kizhi-parotta'], ['Seeraga Samba Biryani', 'சீரக சம்பா பிரியாணி', 270, 'nonveg', 'Short-grain seeraga samba rice with chicken or mutton.', 'seeraga-samba-biryani']];
+var sigCards = R => `<div class="grid">${SIG.map(([n, t, p, d, b, s]) => `<a class="card" href="${R('/journal/' + s + '/')}"><span class="tag" style="background:${dietColor[d]}">${dietLabel[d]}</span><h3>${n}</h3><p class="ta" lang="ta" style="margin-bottom:8px;color:var(--gold-600)">${t}</p><p>${b}</p><p class="price">from ₹${p}</p><span class="more">Read more →</span></a>`).join('')}</div>`;
+var HOME_FAQ = [['Where is Hotel Mudaliyar in Madurai?', 'Hotel Mudaliyar is at No. 1-A, Pandi Kovil Ring Road, Melamadai, near PC Perungudi, Madurai 625020. Phone: ' + PHONE + '. It moved here in February 2026 from its original site beside the Goripalayam bus stand.'], ['Is this the same Mudaliyar Idly Kadai from Goripalayam?', 'Yes. Mudaliyar Idly Kadai (முதலியார் இட்லி கடை) was started in the 1960s by Late Thiru P. Kandasamy Mudaliyar next to the Goripalayam bus stand. The Goripalayam premises were acquired for the bridge construction, and the restaurant now runs from Melamadai under Mr K. Tamilselvan, with the same phone number.'], ['What is Hotel Mudaliyar famous for?', 'Its muttai idli: idlis chopped and fried with egg and masala, which the Tamil press has written about. It is also known for Madurai special curry dosa, kothu parotta and seeraga samba biryani.'], ['Was Mudaliyar Idly Kadai shown in a film?', 'Yes. The kadai appears in the Tamil film Kadhal (2004), starring Bharath and Sandhya. It was directed by Balaji Sakthivel, with music by Joshua Sridhar.'], ['What are the opening hours?', 'Breakfast 7:00–11:30 am, meals 12:00–3:30 pm and dinner 6:00–11:00 pm, all days.'], ['Is there vegetarian food?', 'Yes. The menu has idly, dosa, uthappam, idiyappam, parotta, chapathi, veg meals, fried rice and noodles. Vegetarian items are marked with a green symbol.'], ['Can I order takeaway or delivery?', 'Takeaway is available at the counter. Delivery is on Swiggy and Zomato.'], ['Is there a hall for functions?', 'Yes. Ammaiyappan Hall upstairs is air-conditioned and used for receptions, betrothal lunches, birthdays and company lunches, with catering from the restaurant kitchen. Call ' + PHONE + ' to book.']];
+var faqLd = (id, f) => ({
+  "@type": "FAQPage",
+  "@id": SITE + id,
+  mainEntity: f.map(([q, a]) => ({
+    "@type": "Question",
+    name: q,
+    acceptedAnswer: {
+      "@type": "Answer",
+      text: a
+    }
+  }))
+});
+var faqHtml = f => f.map(([q, a], i) => `<details${i < 2 ? ' open' : ''}><summary>${esc(q)}</summary><p>${esc(a)}</p></details>`).join('');
+var journalCards = (R, list) => `<div class="grid">${list.map(a => `<a class="card" href="${R('/journal/' + a.slug + '/')}"><span class="tag">${a.tag}</span><h3>${a.h1}</h3><p>${a.lead}</p><span class="more">Read →</span></a>`).join('')}</div>`;
+var STORY = [['1960s', 'An evening stall at Goripalayam', 'Late Thiru P. Kandasamy Mudaliyar opened Mudaliyar Idly Kadai right next to the Goripalayam bus stand, Madurai 625 002. It opened in the evening and stayed open late.'], ['The regulars', 'GH, American College, the Court', 'Doctors and attendants from the Government Hospital, students from American College, lawyers and clerks from the Court. The neighbourhood ate here after work.'], ['Till 3 am', 'Madurai’s late-night idly', 'The kadai served until 3 in the morning. Film stars and public figures came to eat or picked up takeaway.'], ['2004', 'On screen in <cite>Kadhal</cite>', '<span lang="ta">முதலியார் இட்லி கடை</span> appears in <cite>Kadhal</cite> (2004), starring Bharath and Sandhya. Directed by Balaji Sakthivel, music by Joshua Sridhar.'], ['In the press', 'The muttai idli, written up', 'A Tamil newspaper column wrote up the muttai idli when a set cost ₹20. The kadai was also covered by Kumudam, Vasantham TV Singapore and Kairali TV.'], ['2026', 'Hotel Mudaliyar, Melamadai', 'The Goripalayam premises were acquired for the bridge construction. Mr K. Tamilselvan reopened the restaurant on Pandi Kovil Ring Road on 22 February 2026.']];
+var storyCards = `<div class="grid">${STORY.map(([y, t, b]) => `<article class="card"><span class="tag">${y}</span><h3>${t}</h3><p>${b}</p></article>`).join('')}</div>`;
+var press = R => `<div class="press" aria-label="Press and film">
+<figure><div class="ph"><img src="${R('/assets/press-goripalayam-poster.png')}" alt="Mudaliyar Idly Kadai Goripalayam menu board with Vasantham TV, Kairali and Kumudam features" loading="lazy"></div><figcaption>Goripalayam menu board, with press and TV features</figcaption></figure>
+<figure><div class="ph"><img src="${R('/assets/film-kadhal-2004.png')}" alt="Mudaliyar Idly Kadai signboard in the Tamil film Kadhal (2004)" loading="lazy" style="object-position:center"></div><figcaption>The kadai in <cite>Kadhal</cite> (2004)</figcaption></figure>
+<figure><div class="ph"><img src="${R('/assets/press-muttai-idli-column.png')}" alt="Tamil newspaper column on the muttai idli at Mudaliyar Idly Kadai, Goripalayam" loading="lazy"></div><figcaption>Newspaper column on the muttai idli</figcaption></figure></div>`;
+var sh = (eb, h2, ta, id) => `<div class="sh"><p class="eyebrow" style="color:var(--gold-600)">${eb}</p><h2 id="${id}">${h2}</h2>${ta ? `<span class="ta" lang="ta">${ta}</span>` : ''}</div>`;
+var menuLd = {
+  "@type": "Menu",
+  "@id": SITE + "/menu/#menu",
+  name: "Hotel Mudaliyar menu",
+  url: SITE + "/menu/",
+  inLanguage: "en",
+  hasMenuSection: menu.sections.map(s => ({
+    "@type": "MenuSection",
+    name: s.title,
+    description: s.meta,
+    hasMenuItem: s.items.map(i => {
+      const o = {
+        "@type": "MenuItem",
+        name: i.name + (i.unit ? ' ' + i.unit : '')
+      };
+      if (i.price != null) o.offers = {
+        "@type": "Offer",
+        price: String(i.price),
+        priceCurrency: "INR"
+      };
+      if (i.diet === 'veg') o.suitableForDiet = "https://schema.org/VegetarianDiet";
+      return o;
+    })
+  }))
+};
+var pages = [];
+
+// HOME
+pages.push(page({
+  path: '/',
+  title: 'Hotel Mudaliyar, Melamadai, Madurai | Mudaliyar Idly Kadai since the 1960s',
+  desc: `Hotel Mudaliyar (Mudaliyar Idly Kadai, முதலியார் இட்லி கடை) began in the 1960s beside the Goripalayam bus stand and is home of the muttai idli. Now on Pandi Kovil Ring Road, Melamadai, Madurai. Call ${PHONE}.`,
+  ld: [RESTAURANT, faqLd('/#faq', HOME_FAQ), {
+    "@type": "WebSite",
+    "@id": SITE + "/#website",
+    url: SITE + "/",
+    name: "Hotel Mudaliyar",
+    inLanguage: ["en", "ta"],
+    publisher: RESTAURANT_REF
+  }],
+  body: R => `<section class="hero" aria-labelledby="h1"><img src="${R('/assets/photo-storefront-melamadai.jpg')}" alt="" fetchpriority="high">
+<div class="wrap"><div><p class="eyebrow">Melamadai, Madurai · since the 1960s</p>
+<h1 id="h1">Hotel Mudaliyar: Madurai’s Mudaliyar Idly Kadai, now in Melamadai</h1>
+<p class="ta" lang="ta">ஹோட்டல் முதலியார் · முதலியார் இட்லி கடை · மேலமடை, மதுரை</p>
+<p class="lead">Started in the 1960s by Late Thiru P. Kandasamy Mudaliyar as an evening stall beside the Goripalayam bus stand. It stayed open till 3 am for the Government Hospital, American College and the Court, and it is the home of the muttai idli. Since 22 February 2026 it has run from Pandi Kovil Ring Road.</p>
+<div class="cta"><a class="btn gold" href="${R('/menu/')}">See the full menu</a><a class="btn line" href="tel:${TEL}">Call ${PHONE}</a><a class="btn line" href="${SOCIAL.google}" rel="noopener">Directions</a></div>
+</div><img class="emb" src="${R('/assets/logo-emblem-maroon.png')}" alt="Hotel Mudaliyar emblem" width="240" height="240"></div></section>
+<section class="blk" id="signatures" aria-labelledby="sig-h"><div class="wrap">${sh('Signature dishes', 'What Madurai comes back for', 'சிறப்பு உணவுகள்', 'sig-h')}${sigCards(R)}</div></section>
+<section class="blk" id="menu" aria-labelledby="menu-h" style="padding-top:clamp(40px,6vw,72px)"><div class="wrap">${sh(count + ' dishes · breakfast to late dinner', 'The menu', 'உணவுப் பட்டியல்', 'menu-h')}
+<nav class="toc" aria-label="Menu sections">${menu.sections.map(s => `<a href="${R('/menu/')}#${slug(s.title)}">${esc(s.title)}</a>`).join('')}</nav>
+<a class="btn gold" href="${R('/menu/')}">Full menu with prices</a></div></section>
+<section class="blk" id="story" aria-labelledby="story-h"><div class="wrap">${sh('Our story', 'The idly kadai by the Goripalayam bus stand', 'எங்கள் கதை', 'story-h')}${storyCards}${press(R)}<p><a class="more" href="${R('/story/')}">The full story →</a></p></div></section>
+<section class="blk" id="hall" aria-labelledby="hall-h"><div class="wrap" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:40px">
+<div><p class="eyebrow">Upstairs at Melamadai</p><h2 id="hall-h" style="font-size:clamp(28px,3.6vw,42px)">Ammaiyappan Hall (A/C)</h2><span class="ta" lang="ta" style="display:block;margin-top:6px">அம்மையப்பன் ஹால்</span>
+<p style="line-height:1.75;font-size:17px;max-width:56ch">An air-conditioned function hall on the first floor for receptions, betrothal lunches, birthdays and company lunches. Food comes from the restaurant kitchen downstairs.</p>
+<div class="cta"><a class="btn gold" href="${R('/hall/')}">About the hall</a><a class="btn line" href="tel:${TEL}">Call to book</a></div></div>
+<ul style="align-self:center;line-height:2"><li>Fully air-conditioned</li><li>Lunch and dinner functions</li><li>Catering from the restaurant kitchen</li><li>Bookings by phone or at the counter</li></ul></div></section>
+<section class="blk" aria-labelledby="j-h"><div class="wrap">${sh('Journal', 'From the kitchen and the archive', '', 'j-h')}${journalCards(R, ARTICLES.slice(0, 3))}<p><a class="more" href="${R('/journal/')}">All journal posts →</a></p></div></section>
+<section class="blk faq" id="faq" aria-labelledby="faq-h" style="padding-top:0"><div class="wrap">${sh('Questions', 'Frequently asked questions', '', 'faq-h')}${faqHtml(HOME_FAQ)}</div></section>`
+}));
+
+// MENU
+var mTrail = [['/', 'Home'], ['/menu/', 'Menu']];
+pages.push(page({
+  path: '/menu/',
+  trail: mTrail,
+  title: `Hotel Mudaliyar Menu & Prices, Melamadai, Madurai | ${count} dishes`,
+  desc: `Full Hotel Mudaliyar menu with prices: muttai idli ₹130, curry dosa, kothu parotta, seeraga samba biryani, Chettinad starters, meals, fried rice and noodles. Melamadai, Madurai.`,
+  ld: [RESTAURANT, menuLd],
+  body: R => phead(mTrail, R, `${count} dishes · prices in ₹`, 'Hotel Mudaliyar menu', 'உணவுப் பட்டியல்', 'Idly, dosa, parotta, biryani and Chettinad starters, served from 7 am to 11 pm. Vegetarian, egg and non-vegetarian dishes are marked.') + `<section class="blk" style="background:var(--cream-100)"><div class="wrap">${legend}
+<nav class="toc" aria-label="Menu sections" style="margin-top:20px">${menu.sections.map(s => `<a href="#${slug(s.title)}">${esc(s.title)}</a>`).join('')}</nav>
+<div class="menu">${menu.sections.map(s => `<section class="ms" id="${slug(s.title)}" aria-labelledby="${slug(s.title)}-h"><h2 id="${slug(s.title)}-h" style="font-size:24px;color:var(--text-heading)">${esc(s.title)} <span class="ta" lang="ta" style="font-size:16px;color:var(--gold-600)">${s.tamilTitle}</span></h2><p class="meta">${esc(s.meta)}</p><ul>${s.items.map(i => `<li>${dd(i.diet)}<span class="n">${esc(i.name)}${i.unit ? ` <span class="u">${esc(i.unit)}</span>` : ''}</span>${i.price != null ? `<span class="p">₹${i.price}</span>` : ''}</li>`).join('')}</ul></section>`).join('')}</div>
+<p><a href="${R('/ui_kits/menu_card/index-print.html')}">Printable A4 menu card</a> · Delivery on Swiggy &amp; Zomato · <a href="tel:${TEL}">${PHONE}</a></p></div></section>`
+}));
+
+// STORY
+var sTrail = [['/', 'Home'], ['/story/', 'Story']];
+pages.push(page({
+  path: '/story/',
+  trail: sTrail,
+  type: 'article',
+  image: '/assets/press-goripalayam-poster.png',
+  title: 'Our Story: Mudaliyar Idly Kadai, Goripalayam to Melamadai | Hotel Mudaliyar',
+  desc: 'Mudaliyar Idly Kadai began in the 1960s as an evening stall beside the Goripalayam bus stand, Madurai. It was open till 3 am, appeared in the film Kadhal (2004), and moved to Melamadai in 2026.',
+  ld: [{
+    "@type": "AboutPage",
+    name: "Our story",
+    url: SITE + "/story/",
+    about: RESTAURANT_REF
+  }, RESTAURANT],
+  body: R => phead(sTrail, R, 'Since the 1960s', 'The idly kadai by the Goripalayam bus stand', 'எங்கள் கதை', 'From an evening stall that fed Madurai till 3 am to a three-floor restaurant in Melamadai.') + `<section class="blk"><div class="wrap">${storyCards}${press(R)}<p><a class="more" href="${R('/journal/goripalayam-till-3am/')}">Read: Till 3 am at Goripalayam →</a></p></div></section>`
+}));
+
+// HALL
+var hTrail = [['/', 'Home'], ['/hall/', 'Ammaiyappan Hall']];
+var HALL_FAQ = [['Is Ammaiyappan Hall air-conditioned?', 'Yes, the hall is fully air-conditioned.'], ['Where is the hall?', 'Upstairs in the Hotel Mudaliyar building, No. 1-A, Pandi Kovil Ring Road, Melamadai, Madurai 625020.'], ['Who does the catering?', 'The Hotel Mudaliyar kitchen downstairs: meals, biryani, Chettinad starters, idly, dosa and parotta.'], ['How do I book?', 'Call ' + PHONE + ' or ask at the restaurant counter. Have your date, slot, approximate guest count and veg/non-veg preference ready.']];
+pages.push(page({
+  path: '/hall/',
+  trail: hTrail,
+  title: 'Ammaiyappan Hall: A/C Function Hall in Melamadai, Madurai | Hotel Mudaliyar',
+  desc: `Ammaiyappan Hall is an air-conditioned function hall above Hotel Mudaliyar, Melamadai, Madurai, for receptions, betrothals, birthdays and company lunches, with catering from the restaurant kitchen. Call ${PHONE}.`,
+  ld: [{
+    "@type": ["EventVenue", "Place"],
+    "@id": SITE + "/hall/#venue",
+    name: "Ammaiyappan Hall",
+    alternateName: "அம்மையப்பன் ஹால்",
+    url: SITE + "/hall/",
+    telephone: PHONE_INTL,
+    address: ADDRESS,
+    containedInPlace: RESTAURANT_REF,
+    amenityFeature: [{
+      "@type": "LocationFeatureSpecification",
+      name: "Air-conditioned",
+      value: true
+    }, {
+      "@type": "LocationFeatureSpecification",
+      name: "In-house catering",
+      value: true
+    }]
+  }, faqLd('/hall/#faq', HALL_FAQ)],
+  body: R => phead(hTrail, R, 'Upstairs at Melamadai', 'Ammaiyappan Hall', 'அம்மையப்பன் ஹால்', 'An air-conditioned function hall above Hotel Mudaliyar, with food from the Mudaliyar kitchen.', `<div class="cta"><a class="btn gold" href="tel:${TEL}">Call ${PHONE} to book</a></div>`) + `<section class="blk"><div class="wrap" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px">
+<article class="card"><h3>Weddings &amp; betrothals</h3><p>Reception dinners and nichayathartham lunches for family and close guests.</p></article>
+<article class="card"><h3>Family functions</h3><p>Birthdays, naming ceremonies, anniversaries and reunions.</p></article>
+<article class="card"><h3>Company &amp; groups</h3><p>Team lunches and dinners, small meetings, and get-togethers for college and school alumni.</p></article>
+</div></section>
+<section class="blk" style="padding-top:0"><div class="wrap prose"><h2>Catering from the restaurant kitchen</h2><p>Choose from the restaurant's own dishes: <a href="${R('/journal/muttai-idli-madurai/')}">muttai idli</a>, idly and dosa for morning functions; veg meals or <a href="${R('/journal/seeraga-samba-biryani/')}">seeraga samba biryani</a> with Chettinad starters for lunch; parotta, <a href="${R('/journal/kothu-parotta-kizhi-parotta/')}">kothu parotta</a> and <a href="${R('/journal/madurai-curry-dosa/')}">curry dosa</a> for dinner. See the <a href="${R('/menu/')}">full menu</a>.</p>
+<p><a class="more" href="${R('/journal/ammaiyappan-hall-functions/')}">Planning a function at Ammaiyappan Hall →</a></p></div></section>
+<section class="blk faq" style="padding-top:0"><div class="wrap">${sh('Questions', 'Hall FAQ', '', 'hfaq-h')}${faqHtml(HALL_FAQ)}</div></section>`
+}));
+
+// CONTACT
+var cTrail = [['/', 'Home'], ['/contact/', 'Contact']];
+pages.push(page({
+  path: '/contact/',
+  trail: cTrail,
+  title: `Contact & Directions | Hotel Mudaliyar, Melamadai, Madurai | ${PHONE}`,
+  desc: `Hotel Mudaliyar, No. 1-A, Pandi Kovil Ring Road, Melamadai, near PC Perungudi, Madurai 625020. Phone ${PHONE}. Breakfast 7–11:30 am, meals 12–3:30 pm, dinner 6–11 pm.`,
+  ld: [{
+    "@type": "ContactPage",
+    name: "Contact Hotel Mudaliyar",
+    url: SITE + "/contact/",
+    about: RESTAURANT_REF
+  }, RESTAURANT],
+  body: R => phead(cTrail, R, 'Melamadai, Madurai', 'Contact &amp; directions', 'தொடர்பு கொள்ள', '', `<div class="cta"><a class="btn gold" href="tel:${TEL}">Call ${PHONE}</a><a class="btn line" href="${SOCIAL.google}" rel="noopener">Open in Google Maps</a></div>`) + `<section class="blk"><div class="wrap" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:32px;align-items:start">
+<div class="prose"><h2 style="margin-top:0">Address</h2><address style="font-style:normal;font-size:18px;line-height:1.8">Hotel Mudaliyar<br>No. 1-A, Pandi Kovil Ring Road,<br>Melamadai, Near PC Perungudi,<br>Madurai, Tamil Nadu 625020</address>
+<h2>Phone</h2><p><a href="tel:${TEL}">${PHONE}</a>. This is the same number as the old Goripalayam kadai.</p>
+<h2>Hours</h2><p>Breakfast 7:00–11:30 am<br>Meals 12:00–3:30 pm<br>Dinner 6:00–11:00 pm<br>Open all days</p>
+<h2>Order &amp; follow</h2><p>Takeaway at the counter. Delivery on Swiggy and Zomato.<br><a href="${SOCIAL.instagram}" rel="noopener me">Instagram</a> · <a href="${SOCIAL.facebook}" rel="noopener me">Facebook</a> · <a href="${SOCIAL.google}" rel="noopener">Google reviews</a></p></div>
+<iframe class="map" title="Map to Hotel Mudaliyar, Melamadai" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps?q=Hotel+Mudaliyar,+Pandi+Kovil+Ring+Road,+Melamadai,+Madurai+625020&amp;output=embed"></iframe>
+</div></section>`
+}));
+
+// JOURNAL INDEX
+var jTrail = [['/', 'Home'], ['/journal/', 'Journal']];
+pages.push(page({
+  path: '/journal/',
+  trail: jTrail,
+  title: 'Journal: Madurai food stories from Hotel Mudaliyar',
+  desc: 'Stories from Hotel Mudaliyar: the muttai idli, Madurai curry dosa, kothu and kizhi parotta, seeraga samba biryani, the Goripalayam years and Ammaiyappan Hall.',
+  ld: [{
+    "@type": "Blog",
+    "@id": SITE + "/journal/#blog",
+    name: "Hotel Mudaliyar Journal",
+    url: SITE + "/journal/",
+    publisher: RESTAURANT_REF,
+    blogPost: ARTICLES.map(a => ({
+      "@type": "BlogPosting",
+      headline: a.h1,
+      url: SITE + '/journal/' + a.slug + '/',
+      datePublished: a.date
+    }))
+  }],
+  body: R => phead(jTrail, R, 'Journal', 'From the kitchen and the archive', '', 'The dishes Madurai comes back for, and the story of the kadai by the Goripalayam bus stand.') + `<section class="blk"><div class="wrap">${journalCards(R, ARTICLES)}</div></section>`
+}));
+
+// ARTICLES
+ARTICLES.forEach(a => {
+  const p = '/journal/' + a.slug + '/';
+  const tr = [['/', 'Home'], ['/journal/', 'Journal'], [p, a.h1]];
+  const others = ARTICLES.filter(x => x !== a).slice(0, 3);
+  pages.push(page({
+    path: p,
+    trail: tr,
+    type: 'article',
+    image: a.image,
+    title: a.title,
+    desc: a.desc,
+    ld: [{
+      "@type": "BlogPosting",
+      "@id": SITE + p + "#post",
+      headline: a.h1,
+      description: a.desc,
+      image: SITE + a.image,
+      datePublished: a.date,
+      dateModified: a.date,
+      inLanguage: "en",
+      author: {
+        "@type": "Organization",
+        name: "Hotel Mudaliyar",
+        url: SITE + "/"
+      },
+      publisher: {
+        "@type": "Organization",
+        name: "Hotel Mudaliyar",
+        logo: {
+          "@type": "ImageObject",
+          url: SITE + "/assets/logo-emblem-maroon.png"
+        }
+      },
+      mainEntityOfPage: SITE + p,
+      about: RESTAURANT_REF
+    }],
+    body: R => phead(tr, R, a.tag, a.h1, a.ta, a.lead, `<p class="byline">Hotel Mudaliyar · <time datetime="${a.date}">8 October 2026</time></p>`) + `<section class="blk"><div class="wrap"><article class="prose">${a.body(R)}<div class="note" style="margin-top:36px"><strong>Hotel Mudaliyar</strong>, No. 1-A, Pandi Kovil Ring Road, Melamadai, Madurai 625020 · <a href="tel:${TEL}">${PHONE}</a> · <a href="${R('/menu/')}">Full menu</a> · <a href="${SOCIAL.google}" rel="noopener">Directions</a></div></article>
+ <h2 style="font-size:26px;color:var(--text-heading);margin:56px 0 20px">More from the journal</h2>${journalCards(R, others)}</div></section>`
+  }));
+});
+})(); } catch (e) { __ds_ns.__errors.push({ path: "tools/build-site.js", error: String((e && e.message) || e) }); }
+
+// tools/journal-articles.js
+try { (() => {
+// Journal articles. Facts only from owner brief, press clipping, film credit and data/menu.json.
+var ARTICLES = [{
+  slug: 'muttai-idli-madurai',
+  title: 'Muttai Idli: the Goripalayam original | Hotel Mudaliyar Journal',
+  h1: 'Muttai idli: the dish that made Mudaliyar Idly Kadai famous',
+  ta: 'முட்டை இட்லி',
+  desc: 'Muttai idli is idlis chopped and fried with egg and masala. Its history at Mudaliyar Idly Kadai, Goripalayam, the Tamil press write-up, and the chicken, mutton and prawn versions served at Melamadai, Madurai.',
+  lead: 'Idlis cut into pieces and tossed on the tawa with egg and masala. It started at the Goripalayam kadai and is now on the menu at Melamadai.',
+  image: '/assets/press-muttai-idli-column.png',
+  date: '2026-10-08',
+  tag: 'Signature dish',
+  body: R => `<p>Most Madurai idly shops serve idli with sambar and chutney. At Mudaliyar Idly Kadai, the idlis are also cut into pieces and fried on the tawa with egg and masala. That is <strong>muttai idli</strong> (முட்டை இட்லி), and it is the dish the kadai is best known for.</p>
+<h2>How muttai idli is made</h2>
+<p>Freshly steamed idlis are cut into pieces. They go onto a hot tawa with beaten egg and masala, and are tossed until the egg coats every piece. The dish is served hot with chutney on the side. It is soft inside, a little crisp at the edges, and spiced throughout.</p>
+<figure><img src="${R('/assets/press-muttai-idli-column.png')}" alt="Tamil newspaper column titled Ishtamai Saappida Muttai Idli about Mudaliyar Idly Kadai, Goripalayam" loading="lazy" style="max-width:300px"><figcaption>A Tamil newspaper column on the muttai idli at the Goripalayam kadai, from when a set cost ₹20.</figcaption></figure>
+<h2>In the press</h2>
+<p>A Tamil newspaper column titled “இஷ்டமாய் சாப்பிட ‘முட்டை இட்லி’” sent readers to the Mudaliyar kadai at Goripalayam for its muttai idli. Back then a set cost ₹20. The kadai was also featured by Kumudam, Vasantham TV Singapore and Kairali TV.</p>
+<h2>Muttai idli at Melamadai</h2>
+<p>The Goripalayam premises were acquired for the bridge construction, and the dish moved with the restaurant to Pandi Kovil Ring Road. It now comes in four versions:</p>
+<table class="tbl"><tr><td>Muttai Idli</td><td>₹130</td></tr><tr><td>Chicken Muttai Idli</td><td>₹300</td></tr><tr><td>Prawn Muttai Idli</td><td>₹330</td></tr><tr><td>Mutton Muttai Idli</td><td>₹350</td></tr></table>
+<p>For something that isn't fried, try the <a href="${R('/menu/')}#idly-corner">Idly Corner</a>: plain idly, sambar idly, ghee podi idly and chilli idly.</p>`
+}, {
+  slug: 'madurai-curry-dosa',
+  title: 'Madurai Special Curry Dosa: chicken, mutton, prawn, boti & liver | Hotel Mudaliyar',
+  h1: 'Madurai Spl. curry dosa: a dosa with the curry cooked on top',
+  ta: 'மதுரை கறி தோசை',
+  desc: 'The Madurai special curry dosa (kari dosai) at Hotel Mudaliyar, Melamadai: chicken, mutton, prawn, boti and liver versions, with prices, and what to order with it.',
+  lead: 'Madurai is known for meat curry cooked straight onto the dosa. Here are the five versions served at Hotel Mudaliyar.',
+  image: '/assets/photo-storefront-melamadai.jpg',
+  date: '2026-10-08',
+  tag: 'Signature dish',
+  body: R => `<p>Order a <em>kari dosai</em> in Madurai and the curry doesn't come in a bowl on the side. It is cooked onto the dosa itself. At Hotel Mudaliyar this section of the menu is called <strong>Madurai Spl. Curry Dosa</strong>.</p>
+<h2>The five curry dosas</h2>
+<table class="tbl"><tr><td>Chicken Curry Dosa</td><td>₹300</td></tr><tr><td>Boti Curry Dosa</td><td>₹320</td></tr><tr><td>Prawn Curry Dosa</td><td>₹330</td></tr><tr><td>Mutton Curry Dosa</td><td>₹350</td></tr><tr><td>Liver Curry Dosa</td><td>₹350</td></tr></table>
+<p>Boti (goat intestine) and liver are Madurai favourites, and many restaurants don't serve them. If it's your first time, start with chicken or mutton.</p>
+<h2>When to order</h2>
+<p>Curry dosas are served at breakfast (7:00–11:30 am) and dinner (6:00–11:00 pm). One is a full meal for one person. Two people can share one along with a plain or podi dosa.</p>
+<h2>Other dosas on the menu</h2>
+<p>The <a href="${R('/menu/')}#dosa-corner">Dosa Corner</a> has 16 more dosas, from a plain dosa at ₹80 to ghee roast, rava masala, egg dosa and egg adai dosa.</p>`
+}, {
+  slug: 'kothu-parotta-kizhi-parotta',
+  title: 'Kothu Parotta, Kizhi Parotta & Madurai Parotta | Hotel Mudaliyar, Melamadai',
+  h1: 'Kothu, kizhi and veechu: the parottas of Madurai',
+  ta: 'கொத்து பரோட்டா · கிழி பரோட்டா',
+  desc: 'Kothu parotta, kizhi parotta, veechu, poricha and Madurai special parotta at Hotel Mudaliyar, Melamadai, Madurai. What each one is, with prices, from veg to mutton.',
+  lead: 'Madurai is a parotta city. Here is how the parottas on the Hotel Mudaliyar menu differ.',
+  image: '/assets/photo-storefront-melamadai.jpg',
+  date: '2026-10-08',
+  tag: 'Signature dish',
+  body: R => `<h2>Kothu parotta</h2>
+<p>For <strong>kothu parotta</strong>, parotta is chopped on the tawa with two steel blades. You hear the clatter before the plate reaches you. It is tossed with onion, masala and salna, plus egg or meat.</p>
+<table class="tbl"><tr><td>Veg Kothu Parotta</td><td>₹130</td></tr><tr><td>Egg Kothu Parotta</td><td>₹150</td></tr><tr><td>Chicken Kothu Parotta</td><td>₹300</td></tr><tr><td>Mutton Kothu Parotta</td><td>₹350</td></tr></table>
+<h2>Kizhi parotta</h2>
+<p><strong>Kizhi</strong> means a wrapped bundle. The parotta is wrapped with curry so it soaks up the gravy.</p>
+<table class="tbl"><tr><td>Chicken Kizhi Parotta</td><td>₹250</td></tr><tr><td>Mutton Kizhi Parotta</td><td>₹300</td></tr></table>
+<h2>Madurai Spl., veechu and poricha</h2>
+<p>The breads are priced per two pieces. Plain Parotta is ₹60. Madurai Spl., Veechu (thin and stretched) and Poricha (fried) parottas are ₹80 each. Egg Veechu is ₹100 and Chilli Parotta is ₹130.</p>
+<h2>Labba</h2>
+<p>Egg Labba (₹130), Chicken Labba (₹250) and Mutton Labba (₹300) are on the menu too. The same chopped style is also made with idiyappam: <a href="${R('/menu/')}#idiyappam-varieties">see Idiyappam Varieties</a>.</p>
+<p>Parottas are served in the evening and at dinner, from 6:00 to 11:00 pm.</p>`
+}, {
+  slug: 'seeraga-samba-biryani',
+  title: 'Seeraga Samba Chicken & Mutton Biryani in Madurai | Hotel Mudaliyar',
+  h1: 'Seeraga samba biryani at Hotel Mudaliyar',
+  ta: 'சீரக சம்பா பிரியாணி',
+  desc: 'Seeraga samba chicken biryani (₹270) and mutton biryani (₹300) at Hotel Mudaliyar, Melamadai, Madurai. Also kaadai (quail), prawn, egg and plain biryani.',
+  lead: 'Tamil Nadu biryani is made with small seeraga samba rice. Here is the full biryani section of the menu.',
+  image: '/assets/photo-storefront-melamadai.jpg',
+  date: '2026-10-08',
+  tag: 'Signature dish',
+  body: R => `<p><strong>Seeraga samba</strong> is a short-grain, fragrant rice from Tamil Nadu. The grains are small, about the size of cumin seeds (<em>seeragam</em>), which is where the name comes from. It soaks up masala in a way long-grain basmati doesn't, and it is the rice of Tamil biryani.</p>
+<h2>The biryani menu</h2>
+<table class="tbl"><tr><td>Plain Biryani</td><td>₹150</td></tr><tr><td>Egg Biryani</td><td>₹200</td></tr><tr><td>Seeraga Samba Chicken Biryani</td><td>₹270</td></tr><tr><td>Kaadai (quail) Biriyani</td><td>₹300</td></tr><tr><td>Seeraga Samba Mutton Biryani</td><td>₹300</td></tr><tr><td>Prawn Biryani</td><td>₹350</td></tr></table>
+<h2>What to order with it</h2>
+<p>From the starters: <a href="${R('/menu/')}#chicken-mutton-seafood-starters">Mutton Chukka</a>, Chettinadu Chicken, Kaadai Roast or Fish Fry. For one person, a biryani and one starter is a full meal.</p>
+<p>Biryani is served at lunch (12:00–3:30 pm) and dinner (6:00–11:00 pm). For functions, the kitchen also caters biryani in bulk at <a href="${R('/hall/')}">Ammaiyappan Hall</a>.</p>`
+}, {
+  slug: 'goripalayam-till-3am',
+  title: 'Mudaliyar Idly Kadai, Goripalayam: open till 3 am since the 1960s | Hotel Mudaliyar',
+  h1: 'Till 3 am at Goripalayam: the story of Mudaliyar Idly Kadai',
+  ta: 'கோரிப்பாளையம் முதலியார் இட்லி கடை',
+  desc: 'The history of Mudaliyar Idly Kadai: an evening stall beside the Goripalayam bus stand, Madurai, from the 1960s. Regulars from GH, American College and the Court, celebrities, the film Kadhal (2004), and the move to Melamadai.',
+  lead: 'An evening idly stall beside the Goripalayam bus stand fed Madurai until 3 in the morning for six decades.',
+  image: '/assets/press-goripalayam-poster.png',
+  date: '2026-10-08',
+  tag: 'History',
+  body: R => `<p>In the 1960s, Late Thiru <strong>P. Kandasamy Mudaliyar</strong> opened an evening stall next to the Goripalayam bus stand in Madurai (625 002). It became <strong>Mudaliyar Idly Kadai</strong> (முதலியார் இட்லி கடை).</p>
+<h2>A prime corner</h2>
+<p>The Government Hospital, American College and the Court were all nearby. Hospital staff and visitors, college students, and lawyers and clerks from the Court ate here. So did travellers getting off buses at Goripalayam.</p>
+<h2>Open till 3 am</h2>
+<p>The kadai opened in the evening and stayed open until 3 am. When most of Madurai was asleep, you could still get idli, dosa and muttai idli here. Film stars and public figures came to eat or picked up takeaway.</p>
+<figure><img src="${R('/assets/film-kadhal-2004.png')}" alt="Mudaliyar Idly Kadai signboard at Goripalayam seen in the Tamil film Kadhal, 2004" loading="lazy"><figcaption>The Goripalayam kadai in <cite>Kadhal</cite> (2004).</figcaption></figure>
+<h2>On screen in Kadhal</h2>
+<p>The kadai appears in the Tamil film <cite>Kadhal</cite> (2004), starring Bharath and Sandhya. It was directed by Balaji Sakthivel, with music by Joshua Sridhar.</p>
+<h2>In the press</h2>
+<p>Kumudam, Vasantham TV Singapore and Kairali TV all covered the kadai. A Tamil newspaper column recommended its <a href="${R('/journal/muttai-idli-madurai/')}">muttai idli</a>. The old menu board listed the idli as coming with “4 வகை சட்னியுடன்”, four kinds of chutney.</p>
+<figure><img src="${R('/assets/press-goripalayam-poster.png')}" alt="P. Kandasamy Mudaliyar Idly Kadai Goripalayam menu board, phone 0452 2530303, with TV and press features" loading="lazy" style="max-width:460px"><figcaption>The Goripalayam menu board, with the same phone number still in use today: 0452 253 0303.</figcaption></figure>
+<h2>From Goripalayam to Melamadai</h2>
+<p>In 2025 the Goripalayam premises were acquired by the government for the bridge construction. On 22 February 2026 the restaurant reopened as <strong>Hotel Mudaliyar</strong>, in a three-floor building on Pandi Kovil Ring Road, Melamadai, managed by Mr K. Tamilselvan. <a href="${R('/contact/')}">Directions and hours</a>.</p>`
+}, {
+  slug: 'ammaiyappan-hall-functions',
+  title: 'Ammaiyappan Hall: A/C function hall in Melamadai, Madurai | Hotel Mudaliyar',
+  h1: 'Planning a function at Ammaiyappan Hall',
+  ta: 'அம்மையப்பன் ஹால்',
+  desc: 'Ammaiyappan Hall is an air-conditioned function hall above Hotel Mudaliyar in Melamadai, Madurai, with catering from the restaurant kitchen. Occasions, menu ideas and how to book.',
+  lead: 'An air-conditioned hall above the restaurant, with food from the Mudaliyar kitchen downstairs.',
+  image: '/assets/photo-storefront-melamadai.jpg',
+  date: '2026-10-08',
+  tag: 'Hall',
+  body: R => `<p><strong>Ammaiyappan Hall</strong> is the air-conditioned function hall upstairs at Hotel Mudaliyar on Pandi Kovil Ring Road, Melamadai. The restaurant kitchen is in the same building, so your guests get the same food the restaurant serves.</p>
+<h2>Occasions</h2>
+<ul><li>Wedding receptions and betrothal (nichayathartham) lunches</li><li>Birthdays, naming ceremonies and family get-togethers</li><li>Company lunches, team dinners and small meetings</li><li>Get-togethers for college and school alumni</li></ul>
+<h2>Menu ideas</h2>
+<p>Build your menu from the restaurant's own dishes:</p>
+<ul><li><strong>Morning functions:</strong> idly, mini sambar idly, idiyappam, dosa and <a href="${R('/journal/muttai-idli-madurai/')}">muttai idli</a></li><li><strong>Lunch:</strong> veg meals, or <a href="${R('/journal/seeraga-samba-biryani/')}">seeraga samba chicken or mutton biryani</a> with Chettinadu chicken or mutton chukka</li><li><strong>Dinner:</strong> parotta with salna, <a href="${R('/journal/kothu-parotta-kizhi-parotta/')}">kothu parotta</a>, and <a href="${R('/journal/madurai-curry-dosa/')}">curry dosa</a></li></ul>
+<p class="note">If you want a dish that isn't on the restaurant menu, ask the kitchen when you book.</p>
+<h2>How to book</h2>
+<p>Call <a href="tel:${TEL}">${PHONE}</a> or ask at the counter. Have your date, lunch or dinner slot, an approximate guest count, and veg/non-veg preference ready. More details are on the <a href="${R('/hall/')}">hall page</a>.</p>`
+}];
+})(); } catch (e) { __ds_ns.__errors.push({ path: "tools/journal-articles.js", error: String((e && e.message) || e) }); }
+
+// tools/site-shell.js
+try { (() => {
+// Shared page shell for the static SEO site. Evaluated by build scripts (not loaded by pages).
+var SITE = 'https://hotelmudaliyar.com';
+var PHONE = '0452 253 0303',
+  TEL = '+914522530303',
+  PHONE_INTL = '+91-452-253-0303';
+var SOCIAL = {
+  instagram: 'https://www.instagram.com/hotelmudaliyar/',
+  facebook: 'https://www.facebook.com/hotelmudaliyar/',
+  google: 'https://share.google/laxE1Ho7NfmON9Kvt'
+};
+var GA = 'G-4DQX2FD092';
+var esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;');
+var slug = s => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+var ADDRESS = {
+  "@type": "PostalAddress",
+  streetAddress: "No. 1-A, Pandi Kovil Ring Road, Melamadai, Near PC Perungudi",
+  addressLocality: "Madurai",
+  addressRegion: "Tamil Nadu",
+  postalCode: "625020",
+  addressCountry: "IN"
+};
+var DAYS = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
+var HOURS = [["07:00", "11:30"], ["12:00", "15:30"], ["18:00", "23:00"]].map(([o, c]) => ({
+  "@type": "OpeningHoursSpecification",
+  dayOfWeek: DAYS,
+  opens: o,
+  closes: c
+}));
+var RESTAURANT_REF = {
+  "@id": SITE + "/#restaurant"
+};
+var RESTAURANT = {
+  "@type": "Restaurant",
+  "@id": SITE + "/#restaurant",
+  name: "Hotel Mudaliyar",
+  alternateName: ["Mudaliyar Idly Kadai", "Mudaliyar Idli Kadai", "முதலியார் இட்லி கடை", "ஹோட்டல் முதலியார்"],
+  description: "South Indian restaurant in Madurai. Mudaliyar Idly Kadai started in the 1960s beside the Goripalayam bus stand and is famous for its muttai idli. It moved to Melamadai in 2026.",
+  url: SITE + "/",
+  telephone: PHONE_INTL,
+  image: [SITE + "/assets/photo-storefront-melamadai.jpg", SITE + "/assets/logo-full-maroon.png"],
+  logo: SITE + "/assets/logo-emblem-maroon.png",
+  address: ADDRESS,
+  hasMap: SOCIAL.google,
+  areaServed: "Madurai",
+  servesCuisine: ["South Indian", "Tamil", "Madurai", "Chettinad", "Indo-Chinese"],
+  priceRange: "₹₹",
+  currenciesAccepted: "INR",
+  paymentAccepted: "Cash, UPI, Card",
+  openingHoursSpecification: HOURS,
+  hasMenu: SITE + "/menu/",
+  acceptsReservations: true,
+  foundingDate: "1960s",
+  founder: {
+    "@type": "Person",
+    name: "P. Kandasamy Mudaliyar"
+  },
+  sameAs: [SOCIAL.instagram, SOCIAL.facebook]
+};
+var NAV = [['/', 'Home'], ['/menu/', 'Menu'], ['/story/', 'Story'], ['/journal/', 'Journal'], ['/hall/', 'Hall'], ['/contact/', 'Contact']];
+function crumbsLd(trail) {
+  return {
+    "@type": "BreadcrumbList",
+    itemListElement: trail.map(([u, n], i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      name: n,
+      item: SITE + u
+    }))
+  };
+}
+function crumbsHtml(trail, R) {
+  return `<nav class="crumbs" aria-label="Breadcrumb"><ol>${trail.map(([u, n], i) => i === trail.length - 1 ? `<li aria-current="page">${esc(n)}</li>` : `<li><a href="${R(u)}">${esc(n)}</a></li>`).join('')}</ol></nav>`;
+}
+// path like '/menu/' ; returns {file, html}
+function page({
+  path,
+  title,
+  desc,
+  body,
+  ld = [],
+  image = '/assets/photo-storefront-melamadai.jpg',
+  type = 'website',
+  trail
+}) {
+  const depth = path === '/' ? 0 : path.split('/').filter(Boolean).length;
+  const pre = depth ? '../'.repeat(depth) : '';
+  const R = u => u.startsWith('http') ? u : u === '/' ? pre || './' : pre + u.replace(/^\//, '');
+  const graph = [...ld];
+  if (trail) graph.push(crumbsLd(trail));
+  const html = `<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>${esc(title)}</title>
+<meta name="description" content="${esc(desc)}">
+<link rel="canonical" href="${SITE}${path}">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta name="theme-color" content="#5E1524">
+<meta name="geo.region" content="IN-TN"><meta name="geo.placename" content="Madurai">
+<meta property="og:type" content="${type}"><meta property="og:site_name" content="Hotel Mudaliyar">
+<meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}">
+<meta property="og:url" content="${SITE}${path}"><meta property="og:image" content="${SITE}${image}">
+<meta property="og:locale" content="en_IN"><meta property="og:locale:alternate" content="ta_IN">
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${esc(title)}"><meta name="twitter:description" content="${esc(desc)}"><meta name="twitter:image" content="${SITE}${image}">
+<link rel="icon" href="${R('/assets/logo-emblem-maroon.png')}">
+<link rel="alternate" type="text/plain" href="${R('/llms.txt')}" title="LLM summary">
+<link rel="stylesheet" href="${R('/styles.css')}"><link rel="stylesheet" href="${R('/site.css')}">
+<script async src="https://www.googletagmanager.com/gtag/js?id=${GA}"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA}');
+document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a');if(!a)return;var h=a.getAttribute('href')||'';if(h.indexOf('tel:')===0)gtag('event','call_click');else if(h.indexOf('maps')>-1||h.indexOf('share.google')>-1)gtag('event','directions_click');});</script>
+<script type="application/ld+json">${JSON.stringify({
+    "@context": "https://schema.org",
+    "@graph": graph
+  })}</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="nav"><div class="wrap"><a class="brand" href="${R('/')}"><img src="${R('/assets/logo-emblem-maroon.png')}" alt="" width="40" height="40">Hotel Mudaliyar</a>
+<nav aria-label="Main">${NAV.map(([u, n]) => `<a href="${R(u)}"${(u === '/' ? path === '/' : path.startsWith(u)) ? ' aria-current="page"' : ''}>${n}</a>`).join('')}</nav><a class="call" href="tel:${TEL}">Call ${PHONE}</a></div></header>
+<main id="main">
+${body(R)}
+</main>
+<footer id="visit"><div class="wrap">
+<div class="grid">
+<div><h2>Visit</h2><address>Hotel Mudaliyar<br>No. 1-A, Pandi Kovil Ring Road,<br>Melamadai, Near PC Perungudi,<br>Madurai, Tamil Nadu 625020<br><a href="tel:${TEL}">${PHONE}</a></address><p><a href="${SOCIAL.google}" rel="noopener">Directions &amp; Google reviews</a></p></div>
+<div><h2>Hours</h2><p style="line-height:1.8;margin:0">Breakfast 7:00–11:30 am<br>Meals 12:00–3:30 pm<br>Dinner 6:00–11:00 pm<br>Open all days</p></div>
+<div><h2>Explore</h2><p style="line-height:1.8;margin:0"><a href="${R('/menu/')}">Full menu</a><br><a href="${R('/journal/')}">Journal</a><br><a href="${R('/hall/')}">Ammaiyappan Hall</a><br><a href="${R('/story/')}">Our story</a></p>
+<div class="social"><a href="${SOCIAL.instagram}" rel="noopener me">Instagram</a><a href="${SOCIAL.facebook}" rel="noopener me">Facebook</a></div></div>
+</div>
+<div class="bot"><span>Mudaliyar Idly Kadai, Goripalayam · since the 1960s</span><span class="ta" lang="ta">ஹோட்டல் முதலியார் · முதலியார் இட்லி கடை</span></div>
+</div></footer>
+</body>
+</html>`;
+  const file = (path === '/' ? '' : path.replace(/^\//, '')) + 'index.html';
+  return {
+    file,
+    html
+  };
+}
+function phead(trail, R, eyebrow, h1, ta, lead, extra = '') {
+  return `<section class="phead"><div class="wrap">${crumbsHtml(trail, R)}<p class="eyebrow">${eyebrow}</p><h1>${h1}</h1>${ta ? `<p class="ta" lang="ta" style="font-size:19px;margin:8px 0 0">${ta}</p>` : ''}${lead ? `<p>${lead}</p>` : ''}${extra}</div></section>`;
+}
+})(); } catch (e) { __ds_ns.__errors.push({ path: "tools/site-shell.js", error: String((e && e.message) || e) }); }
 
 // ui_kits/menu_card/MenuPage.jsx
 try { (() => {
@@ -2969,7 +3498,7 @@ const DISHES = [{
   price: 130,
   diet: 'egg',
   badge: 'Signature',
-  note: 'The Goripalayam original. Idli steamed with egg.'
+  note: 'The Goripalayam original. Idlis chopped and fried with egg and masala.'
 }, {
   name: 'Mutton Muttai Idli',
   price: 350,
@@ -3054,7 +3583,7 @@ const STEPS = [{
 }, {
   year: 'In the press',
   title: 'The muttai idli, written up',
-  body: 'The Tamil press wrote up the muttai idli: idli steamed with egg, sold at ₹20 a set. The kadai was also covered by Kumudam, Vasantham TV Singapore and Kairali TV.'
+  body: 'The Tamil press wrote up the muttai idli, idlis fried with egg and masala, when a set cost ₹20. The kadai was also covered by Kumudam, Vasantham TV Singapore and Kairali TV.'
 }, {
   year: '22 Feb 2026',
   title: 'Hotel Mudaliyar, Melamadai',
