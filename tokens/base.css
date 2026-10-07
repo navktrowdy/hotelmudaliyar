@@ -1,0 +1,12 @@
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--surface-page);color:var(--text-body);font-family:var(--font-sans);font-size:var(--type-body-size);line-height:var(--type-body-leading);-webkit-font-smoothing:antialiased;text-wrap:pretty}
+h1,h2,h3,h4{font-family:var(--type-heading-family);color:var(--text-heading);line-height:var(--leading-snug);font-weight:var(--weight-regular);margin:0}
+h1{font-size:var(--text-3xl)}h2{font-size:var(--text-2xl)}h3{font-size:var(--text-xl)}h4{font-size:var(--text-lg)}
+p{margin:0 0 var(--space-4)}
+a{color:var(--text-link);text-decoration:none;border-bottom:1px solid color-mix(in srgb, var(--text-link) 35%, transparent);transition:var(--transition-control)}
+a:hover{color:var(--text-link-hover);border-bottom-color:var(--text-link-hover)}
+:focus-visible{outline:2px solid var(--focus-ring);outline-offset:2px}
+.hm-eyebrow{font-family:var(--type-eyebrow-family);font-size:var(--type-eyebrow-size);letter-spacing:var(--type-eyebrow-tracking);text-transform:uppercase;font-weight:var(--weight-semibold);color:var(--gold-600)}
+.hm-tamil{font-family:var(--type-tamil-family)}
+.hm-script{font-family:var(--type-script-family)}
+.hm-gold-text{background:var(--grad-gold-foil);-webkit-background-clip:text;background-clip:text;color:transparent}

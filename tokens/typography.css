@@ -1,0 +1,27 @@
+:root {
+  --text-4xl: 72px; --text-3xl: 56px; --text-2xl: 40px; --text-xl: 30px;
+  --text-lg: 24px; --text-md: 19px; --text-base: 17px; --text-sm: 15px;
+  --text-xs: 13px; --text-2xs: 11px;
+
+  --leading-tight: 1.05; --leading-snug: 1.2; --leading-normal: 1.5; --leading-loose: 1.7;
+  --tracking-tight: -0.01em; --tracking-normal: 0; --tracking-wide: 0.06em; --tracking-caps: 0.16em;
+
+  --weight-light: 300; --weight-regular: 400; --weight-medium: 500;
+  --weight-semibold: 600; --weight-bold: 700;
+
+  /* Semantic type roles */
+  --type-hero-family: var(--font-display);
+  --type-hero-size: var(--text-4xl);
+  --type-hero-leading: var(--leading-tight);
+  --type-heading-family: var(--font-display);
+  --type-eyebrow-family: var(--font-sans);
+  --type-eyebrow-size: var(--text-xs);
+  --type-eyebrow-tracking: var(--tracking-caps);
+  --type-body-family: var(--font-sans);
+  --type-body-size: var(--text-base);
+  --type-body-leading: var(--leading-loose);
+  --type-price-family: var(--font-sans);
+  --type-price-weight: var(--weight-semibold);
+  --type-tamil-family: var(--font-tamil);
+  --type-script-family: var(--font-script);
+}

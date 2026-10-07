@@ -1,0 +1,16 @@
+:root {
+  --space-0: 0; --space-1: 4px; --space-2: 8px; --space-3: 12px; --space-4: 16px;
+  --space-5: 24px; --space-6: 32px; --space-7: 44px; --space-8: 64px;
+  --space-9: 88px; --space-10: 120px;
+
+  --radius-none: 0; --radius-xs: 3px; --radius-sm: 6px; --radius-md: 10px;
+  --radius-lg: 16px; --radius-pill: 999px;
+  --radius-card: var(--radius-md);
+  --radius-control: var(--radius-sm);
+
+  --border-width-hair: 1px; --border-width-thick: 2px; --border-width-rule: 3px;
+
+  --container-narrow: 720px; --container-text: 940px; --container-wide: 1200px;
+  --gutter-page: var(--space-6);
+  --section-y: var(--space-9);
+}

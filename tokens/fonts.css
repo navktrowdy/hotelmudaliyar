@@ -1,0 +1,18 @@
+/* Hotel Mudaliyar webfonts.
+   NOTE: no vendor font binaries were supplied with the brand assets. These are
+   the closest Google Fonts matches to the signage / logo lettering and are
+   flagged as SUBSTITUTIONS in readme.md.
+   - Yeseva One    ~ the heavy high-contrast gold "Mudaliyar" lettering
+   - Grand Hotel   ~ the calligraphic "Hotel" word on the lockup + fascia board
+   - Mukta Malar   ~ bilingual Tamil/Latin UI text (fascia Tamil is a grotesque)
+   - Noto Serif Tamil ~ Tamil display/headline text
+   - JetBrains Mono ~ tokens, codes, bill numbers (no source equivalent) */
+@import url("https://fonts.googleapis.com/css2?family=Yeseva+One&family=Grand+Hotel&family=Mukta+Malar:wght@200;300;400;500;600;700;800&family=Noto+Serif+Tamil:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap");
+
+:root {
+  --font-display: "Yeseva One", "Noto Serif Tamil", Georgia, serif;
+  --font-script: "Grand Hotel", "Yeseva One", cursive;
+  --font-tamil: "Noto Serif Tamil", "Mukta Malar", serif;
+  --font-sans: "Mukta Malar", "Noto Serif Tamil", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+}

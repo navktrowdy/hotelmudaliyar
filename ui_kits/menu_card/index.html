@@ -1,0 +1,23 @@
+<!-- @dsCard group="Menu card" viewport="900x760" name="Printed menu card" subtitle="A4 menu pages set from the same components as the web menu" -->
+<!-- @startingPoint section="Print" subtitle="A4 printed menu card, six pages" viewport="900x760" -->
+<!DOCTYPE html><html><head><meta charset="utf-8"><title>Hotel Mudaliyar — menu card</title>
+<link rel="stylesheet" href="../../styles.css">
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+<script>window.HM_ASSET_BASE='../..'</script>
+<script src="../../_ds_bundle.js"></script>
+<script type="text/babel" src="MenuPage.jsx"></script>
+<style>html,body{margin:0;background:var(--surface-sunken)}#root{display:flex;gap:32px;padding:32px;justify-content:center;flex-wrap:wrap}@media print{body{background:#fff}#root{padding:0;gap:0}}</style>
+</head><body><div id="root"></div>
+<script type="text/babel">
+function Card(){
+  const [menu,setMenu]=React.useState(null);
+  React.useEffect(()=>{fetch('../../data/menu.json').then(r=>r.json()).then(setMenu)},[]);
+  if(!menu) return <div style={{padding:60,color:'var(--text-muted)'}}>Loading…</div>;
+  const s=menu.sections;
+  const pages=[s.slice(0,3),s.slice(3,5),s.slice(5,8),s.slice(8,10),s.slice(10,13),s.slice(13)];
+  return <>{pages.map((p,i)=><MenuPage key={i} sections={p} page={i+1} total={pages.length}/>)}</>;
+}
+ReactDOM.createRoot(document.getElementById('root')).render(<Card/>);
+</script></body></html>

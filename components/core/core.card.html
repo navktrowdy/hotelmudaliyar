@@ -1,0 +1,34 @@
+<!-- @dsCard group="Components" viewport="700x400" name="Core — buttons, badges, tags, ornament" subtitle="Actions, markers and the signage divider" -->
+<!DOCTYPE html><html><head>
+<meta charset="utf-8">
+<title>Core components</title>
+<link rel="stylesheet" href="../../styles.css">
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+<script>window.HM_ASSET_BASE="../.."</script>
+<script src="../../_ds_bundle.js"></script>
+<style>body{background:var(--surface-page);padding:20px;font-family:var(--font-sans)}.row{display:flex;flex-wrap:wrap;align-items:center;gap:12px}.col{display:flex;flex-direction:column;gap:14px}</style>
+</head><body><div id="root"></div>
+<script type="text/babel">
+const { Button, IconButton, Badge, Tag, Ornament, Card, SectionHeading } = window.HotelMudaliyarDesignSystem_f1309a;
+function Demo(){
+  const [sel,setSel]=React.useState('Dosa');
+  return (<div className="col">
+    <div className="row"><Button variant="primary" iconLeft="phone">Reserve</Button><Button variant="secondary" iconRight="arrow-right">Order online</Button><Button variant="outline">View menu</Button><Button variant="ghost">Directions</Button><Button disabled>Sold out</Button></div>
+    <div className="row"><Button size="sm">Small</Button><Button size="md">Medium</Button><Button size="lg">Large</Button><div style={{background:'var(--maroon-800)',padding:'10px 14px',borderRadius:6}}><Button variant="onDark">On maroon</Button></div></div>
+    <div className="row"><IconButton icon="menu" label="Menu" variant="ghost"/><IconButton icon="printer" label="Print" variant="outline"/><IconButton icon="plus" label="Add" variant="solid"/><div style={{background:'var(--maroon-800)',padding:4,borderRadius:6}}><IconButton icon="search" label="Search" variant="onDark"/></div>
+      <Badge tone="gold" variant="solid">Signature</Badge><Badge tone="maroon">Chettinad</Badge><Badge tone="spicy" icon="flame">Spicy</Badge><Badge tone="veg" variant="outline">Pure veg</Badge><Badge tone="neutral">Till 11:30 am</Badge></div>
+    <div className="row"><Tag selected={sel==='All'} onClick={()=>setSel('All')}>All</Tag><Tag selected={sel==='Dosa'} onClick={()=>setSel('Dosa')}>Dosa</Tag><Tag selected={sel==='Biryani'} onClick={()=>setSel('Biryani')}>Biryani</Tag><Tag selected={sel==='Parotta'} onClick={()=>setSel('Parotta')}>Parotta</Tag></div>
+    <Ornament/>
+    <div className="row" style={{alignItems:'stretch'}}>
+      <Card padding="sm" style={{flex:1}}>Plain cream plate</Card>
+      <Card variant="sunken" padding="sm" style={{flex:1}}>Sunken</Card>
+      <Card variant="outlined" padding="sm" style={{flex:1}}>Gold hairline</Card>
+      <Card variant="inverse" padding="sm" style={{flex:1}}>Maroon field</Card>
+    </div>
+    <SectionHeading eyebrow="Since the 1960s" title="Our Story" tamil="எங்கள் கதை" align="left"/>
+  </div>);
+}
+ReactDOM.createRoot(document.getElementById('root')).render(<Demo/>);
+</script></body></html>
