@@ -1,0 +1,748 @@
+{
+  "source": "uploads/Copy of Hotel Mudaliyar Menu_Final Rev_3624-ad091d69.xlsx (sheet: Menu), verbatim item names and prices",
+  "currency": "INR",
+  "sections": [
+    {
+      "title": "Mudaliyar Signature Dishes",
+      "tamilTitle": "சிறப்பு உணவுகள்",
+      "meta": "All day",
+      "glyph": "star",
+      "items": [
+        {
+          "name": "Muttai Idli",
+          "price": 130,
+          "diet": "egg",
+          "badge": "Signature"
+        },
+        {
+          "name": "Chicken Muttai Idli",
+          "price": 300,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Mutton Muttai Idli",
+          "price": 350,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Prawn Muttai Idli",
+          "price": 330,
+          "diet": "nonveg"
+        }
+      ]
+    },
+    {
+      "title": "Idly Corner",
+      "tamilTitle": "இட்லி",
+      "meta": "Breakfast / Dinner",
+      "glyph": "soup",
+      "items": [
+        {
+          "name": "Idly",
+          "unit": "(3 Pcs)",
+          "price": 45,
+          "diet": "veg"
+        },
+        {
+          "name": "Sambar Idly",
+          "unit": "(2 Pcs)",
+          "price": 110,
+          "diet": "veg"
+        },
+        {
+          "name": "Mini Sambar Idly",
+          "price": 130,
+          "diet": "veg"
+        },
+        {
+          "name": "Podi Idly",
+          "price": 90,
+          "diet": "veg"
+        },
+        {
+          "name": "Ghee Podi Idly",
+          "price": 140,
+          "diet": "veg"
+        },
+        {
+          "name": "Ghee Podi Thatthu Idly",
+          "price": 120,
+          "diet": "veg"
+        },
+        {
+          "name": "Chilli Idly",
+          "price": 140,
+          "diet": "veg"
+        },
+        {
+          "name": "Sambar Vada",
+          "unit": "(2 Pcs)",
+          "price": 80,
+          "diet": "veg"
+        },
+        {
+          "name": "Poori Masala",
+          "price": 80,
+          "diet": "veg"
+        }
+      ]
+    },
+    {
+      "title": "Idiyappam Varieties",
+      "tamilTitle": "இடியாப்பம்",
+      "meta": "Breakfast / Dinner",
+      "glyph": "soup",
+      "items": [
+        {
+          "name": "Idiyappam",
+          "unit": "(3 Pcs)",
+          "price": 45,
+          "diet": "veg"
+        },
+        {
+          "name": "Idiyappam Paya",
+          "price": 240,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Veg Kothu Idiyappam",
+          "price": 130,
+          "diet": "veg"
+        },
+        {
+          "name": "Egg Kothu Idiyappam",
+          "price": 150,
+          "diet": "egg"
+        },
+        {
+          "name": "Chicken Kothu Idiyappam",
+          "price": 300,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Mutton Kothu Idiyappam",
+          "price": 350,
+          "diet": "nonveg"
+        }
+      ]
+    },
+    {
+      "title": "Dosa Corner",
+      "tamilTitle": "தோசை",
+      "meta": "Breakfast / Dinner",
+      "glyph": "utensils",
+      "items": [
+        {
+          "name": "Plain Dosa",
+          "price": 80,
+          "diet": "veg"
+        },
+        {
+          "name": "Masala Dosa",
+          "price": 100,
+          "diet": "veg"
+        },
+        {
+          "name": "Ghee Podi Dosa",
+          "price": 120,
+          "diet": "veg"
+        },
+        {
+          "name": "Butter Dosa",
+          "price": 130,
+          "diet": "veg"
+        },
+        {
+          "name": "Butter Masala Dosa",
+          "price": 150,
+          "diet": "veg"
+        },
+        {
+          "name": "Onion Dosa",
+          "price": 110,
+          "diet": "veg"
+        },
+        {
+          "name": "Onion Masala Dosa",
+          "price": 125,
+          "diet": "veg"
+        },
+        {
+          "name": "Egg Dosa",
+          "price": 100,
+          "diet": "egg"
+        },
+        {
+          "name": "Half-Boil Dosa",
+          "price": 100,
+          "diet": "egg"
+        },
+        {
+          "name": "Podi Dosa",
+          "price": 110,
+          "diet": "veg"
+        },
+        {
+          "name": "Ghee Roast",
+          "price": 110,
+          "diet": "veg"
+        },
+        {
+          "name": "Ghee Masala Roast",
+          "price": 120,
+          "diet": "veg"
+        },
+        {
+          "name": "Rava Dosa",
+          "price": 100,
+          "diet": "veg"
+        },
+        {
+          "name": "Onion Rava Dosa",
+          "price": 120,
+          "diet": "veg"
+        },
+        {
+          "name": "Rava Masala Dosa",
+          "price": 140,
+          "diet": "veg"
+        },
+        {
+          "name": "Egg Adai Dosa",
+          "price": 120,
+          "diet": "egg"
+        }
+      ]
+    },
+    {
+      "title": "Madurai Spl. Curry Dosa",
+      "tamilTitle": "மதுரை கறி தோசை",
+      "meta": "Breakfast / Dinner",
+      "glyph": "flame",
+      "items": [
+        {
+          "name": "Chicken Curry Dosa",
+          "price": 300,
+          "diet": "nonveg",
+          "badge": "Madurai"
+        },
+        {
+          "name": "Mutton Curry Dosa",
+          "price": 350,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Prawn Curry Dosa",
+          "price": 330,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Boti Curry Dosa",
+          "price": 320,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Liver Curry Dosa",
+          "price": 350,
+          "diet": "nonveg"
+        }
+      ]
+    },
+    {
+      "title": "Egg Varieties",
+      "tamilTitle": "முட்டை",
+      "meta": "All day",
+      "glyph": "utensils",
+      "items": [
+        {
+          "name": "Egg Gravy",
+          "price": 115,
+          "diet": "egg"
+        },
+        {
+          "name": "Boiled Egg",
+          "price": 25,
+          "diet": "egg"
+        },
+        {
+          "name": "Omlette",
+          "price": 25,
+          "diet": "egg"
+        },
+        {
+          "name": "Egg Poriyal",
+          "price": 35,
+          "diet": "egg"
+        },
+        {
+          "name": "Kalakki",
+          "price": 35,
+          "diet": "egg"
+        },
+        {
+          "name": "Chicken Kalakki",
+          "price": 100,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Mutton Kalakki",
+          "price": 130,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Half Boil",
+          "price": 25,
+          "diet": "egg"
+        },
+        {
+          "name": "Full Boil",
+          "price": 25,
+          "diet": "egg"
+        }
+      ]
+    },
+    {
+      "title": "Uthappam",
+      "tamilTitle": "ஊத்தப்பம்",
+      "meta": "Breakfast / Dinner",
+      "glyph": "soup",
+      "items": [
+        {
+          "name": "Plain Uthappam",
+          "price": 90,
+          "diet": "veg"
+        },
+        {
+          "name": "Podi Uthappam",
+          "price": 120,
+          "diet": "veg"
+        },
+        {
+          "name": "Onion Uthappam",
+          "price": 120,
+          "diet": "veg"
+        },
+        {
+          "name": "Egg Uthappam",
+          "price": 110,
+          "diet": "egg"
+        }
+      ]
+    },
+    {
+      "title": "Biryani Section",
+      "tamilTitle": "பிரியாணி",
+      "meta": "Lunch / Dinner",
+      "glyph": "drumstick",
+      "items": [
+        {
+          "name": "Plain Biryani",
+          "price": 150,
+          "diet": "veg"
+        },
+        {
+          "name": "Egg Biryani",
+          "price": 200,
+          "diet": "egg"
+        },
+        {
+          "name": "Prawn Biryani",
+          "price": 350,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Kaadai Biriyani",
+          "price": 300,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Seeraga Samba Chicken Biryani",
+          "price": 270,
+          "diet": "nonveg",
+          "badge": "Signature"
+        },
+        {
+          "name": "Seeraga Samba Mutton Biryani",
+          "price": 300,
+          "diet": "nonveg"
+        }
+      ]
+    },
+    {
+      "title": "Meals",
+      "tamilTitle": "சாப்பாடு",
+      "meta": "Thali service · Lunch",
+      "glyph": "leaf",
+      "items": [
+        {
+          "name": "Veg Meals",
+          "price": 160,
+          "diet": "veg"
+        }
+      ]
+    },
+    {
+      "title": "Chicken / Mutton / Seafood Starters",
+      "tamilTitle": "வறுவல்",
+      "meta": "Lunch / Dinner",
+      "glyph": "flame",
+      "items": [
+        {
+          "name": "Chicken Lollypop",
+          "price": 230,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Chicken 65 Boneless",
+          "price": 220,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Chettinadu Chicken",
+          "price": 220,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Malli Chicken",
+          "price": 200,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Madura Chicken",
+          "price": 230,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Pepper Chicken Dry",
+          "price": 200,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Mutton Chukka",
+          "price": 280,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Mutton Pepper Dry",
+          "price": 280,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Mutton Paya",
+          "price": 200,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Boti Fry",
+          "price": 250,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Mutton Liver",
+          "price": 300,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Mutton Brain Dry",
+          "price": 200,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Mutton Suvaroti",
+          "price": 300,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Mutton Kola",
+          "unit": "(2 Pcs)",
+          "price": 100,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Prawn Thokku",
+          "price": 250,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Fish Fry",
+          "price": 200,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Kaadai Roast",
+          "price": 220,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Egg Curry",
+          "price": 300,
+          "diet": "egg"
+        }
+      ]
+    },
+    {
+      "title": "Parotta & Specialty Breads",
+      "tamilTitle": "பரோட்டா",
+      "meta": "Evening / Dinner",
+      "glyph": "wheat",
+      "items": [
+        {
+          "name": "Plain Parotta",
+          "unit": "(2 Pcs)",
+          "price": 60,
+          "diet": "veg"
+        },
+        {
+          "name": "Madurai Spl. Parotta",
+          "unit": "(2 Pcs)",
+          "price": 80,
+          "diet": "veg",
+          "badge": "Madurai"
+        },
+        {
+          "name": "Veechu Parotta",
+          "unit": "(2 Pcs)",
+          "price": 80,
+          "diet": "veg"
+        },
+        {
+          "name": "Poricha Parotta",
+          "unit": "(2 Pcs)",
+          "price": 80,
+          "diet": "veg"
+        },
+        {
+          "name": "Egg Veechu Parotta",
+          "unit": "(2 Pcs)",
+          "price": 100,
+          "diet": "egg"
+        },
+        {
+          "name": "Egg Labba",
+          "price": 130,
+          "diet": "egg"
+        },
+        {
+          "name": "Chicken Labba",
+          "price": 250,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Mutton Labba",
+          "price": 300,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Chilli Parotta",
+          "unit": "(2 Pcs)",
+          "price": 130,
+          "diet": "veg"
+        }
+      ]
+    },
+    {
+      "title": "Kothu Parotta",
+      "tamilTitle": "கொத்து பரோட்டா",
+      "meta": "Shredded parotta specialties",
+      "glyph": "utensils-crossed",
+      "items": [
+        {
+          "name": "Veg Kothu Parotta",
+          "price": 130,
+          "diet": "veg"
+        },
+        {
+          "name": "Egg Kothu Parotta",
+          "price": 150,
+          "diet": "egg"
+        },
+        {
+          "name": "Chicken Kothu Parotta",
+          "price": 300,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Mutton Kothu Parotta",
+          "price": 350,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Chicken Kizhi Parotta",
+          "price": 250,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Mutton Kizhi Parotta",
+          "price": 300,
+          "diet": "nonveg"
+        }
+      ]
+    },
+    {
+      "title": "Chinese Main Course — Rice",
+      "tamilTitle": "ஃபிரைடு ரைஸ்",
+      "meta": "Indo-Chinese",
+      "glyph": "soup",
+      "items": [
+        {
+          "name": "Veg Fried Rice",
+          "price": 160,
+          "diet": "veg"
+        },
+        {
+          "name": "Schezwan Veg Fried Rice",
+          "price": 180,
+          "diet": "veg"
+        },
+        {
+          "name": "Paneer Fried Rice",
+          "price": 200,
+          "diet": "veg"
+        },
+        {
+          "name": "Egg Fried Rice",
+          "price": 180,
+          "diet": "egg"
+        },
+        {
+          "name": "Schezwan Egg Fried Rice",
+          "price": 200,
+          "diet": "egg"
+        },
+        {
+          "name": "Chicken Fried Rice",
+          "price": 220,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Schezwan Chicken Fried Rice",
+          "price": 240,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Prawn Fried Rice",
+          "price": 300,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Schezwan Prawn Fried Rice",
+          "price": 320,
+          "diet": "nonveg"
+        }
+      ]
+    },
+    {
+      "title": "Noodles",
+      "tamilTitle": "நூடுல்ஸ்",
+      "meta": "Indo-Chinese",
+      "glyph": "soup",
+      "items": [
+        {
+          "name": "Veg Noodles",
+          "price": 160,
+          "diet": "veg"
+        },
+        {
+          "name": "Schezwan Veg Noodles",
+          "price": 180,
+          "diet": "veg"
+        },
+        {
+          "name": "Egg Noodles",
+          "price": 180,
+          "diet": "egg"
+        },
+        {
+          "name": "Schezwan Egg Noodles",
+          "price": 200,
+          "diet": "egg"
+        },
+        {
+          "name": "Chicken Noodles",
+          "price": 220,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Schezwan Chicken Noodles",
+          "price": 240,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Prawn Noodles",
+          "price": 300,
+          "diet": "nonveg"
+        },
+        {
+          "name": "Schezwan Prawn Noodles",
+          "price": 320,
+          "diet": "nonveg"
+        }
+      ]
+    },
+    {
+      "title": "Chapathi Corner",
+      "tamilTitle": "சப்பாத்தி",
+      "meta": "All day",
+      "glyph": "wheat",
+      "items": [
+        {
+          "name": "Plain Chapathi",
+          "unit": "(2 Pcs)",
+          "price": 80,
+          "diet": "veg"
+        },
+        {
+          "name": "Chilli Chapathi",
+          "price": 160,
+          "diet": "veg"
+        },
+        {
+          "name": "Egg Chapathi",
+          "price": 100,
+          "diet": "egg"
+        }
+      ]
+    },
+    {
+      "title": "Beverages",
+      "tamilTitle": "பானங்கள்",
+      "meta": "All day",
+      "glyph": "coffee",
+      "items": [
+        {
+          "name": "Water Bottle",
+          "unit": "(1 L)",
+          "diet": "veg"
+        },
+        {
+          "name": "Soft Drinks",
+          "diet": "veg"
+        },
+        {
+          "name": "Goli Soda",
+          "diet": "veg"
+        },
+        {
+          "name": "Ice Cream",
+          "diet": "veg"
+        },
+        {
+          "name": "Rose Milk",
+          "diet": "veg"
+        },
+        {
+          "name": "Fresh Juices",
+          "diet": "veg"
+        },
+        {
+          "name": "Coffee / Tea",
+          "diet": "veg"
+        },
+        {
+          "name": "Masala Tea",
+          "diet": "veg"
+        }
+      ]
+    }
+  ]
+}
